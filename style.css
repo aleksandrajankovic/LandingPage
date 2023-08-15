@@ -497,5 +497,8 @@ footer {
     }
     .swiper-container {
         max-width: 100%;
-    }    
+    }
+      .block-title {
+        font-size: 2rem;
+    }
   }
