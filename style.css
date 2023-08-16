@@ -453,6 +453,12 @@ footer {
     #rules-text .show-more {
         width: 50%;
     }
+    .links ul li {
+        font-size: 12px;
+    }
+    .links{
+        padding: 20px 0;
+    }
   }
   @media screen and (max-width:500px) {
     #rules-text .show-more {
@@ -479,6 +485,7 @@ footer {
     .hero-btn a {
         padding: 1.5rem 2rem;
     }
+     
   }
   @media screen and (max-width:376px) {
     .hero {
@@ -502,4 +509,5 @@ footer {
       .block-title {
         font-size: 2rem;
     }
+   
   }
