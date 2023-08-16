@@ -416,7 +416,7 @@ footer {
   }
   @media screen and (max-width:700px) {
     .footer-wrapper {
-        width: 80%;
+        width: 90%;
     }
     .payments {
         flex-direction: column;
