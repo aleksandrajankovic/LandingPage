@@ -156,6 +156,7 @@ margin-bottom: 2.5rem;
 .block.swiper-slide {
     padding: 2rem;
     min-height: 30rem;
+    width: 30% !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
