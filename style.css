@@ -445,10 +445,10 @@ footer {
         width: 100%;
     }
     .block.swiper-slide {
-        width: 70% !important;
+        width: 85% !important;
     }
     .swiper-container {
-        width: 80%;
+        width: 100%;
     }
     #rules-text .show-more {
         width: 50%;
