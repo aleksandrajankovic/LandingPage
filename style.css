@@ -417,6 +417,11 @@ footer {
   #rules-text .expanded {
     max-height: 100%; 
   }
+@media screen and (max-width:1200px){
+    .block.swiper-slide{
+    width: 45%;
+    }
+}
   @media screen and (max-width:700px) {
     .footer-wrapper {
         width: 90%;
