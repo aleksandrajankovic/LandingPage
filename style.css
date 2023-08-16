@@ -155,7 +155,6 @@ margin-bottom: 2.5rem;
 
 .block.swiper-slide {
     padding: 2rem;
- 
     min-height: 30rem;
     background-repeat: no-repeat;
     background-position: center;
@@ -165,8 +164,7 @@ margin-bottom: 2.5rem;
     display: flex;
     justify-content: flex-start;
     align-items: flex-end;
-    margin: 20px;
-    
+    margin: 10px;  
 }
 .block1.swiper-slide {
     background-image: linear-gradient(180deg, rgba(22, 35, 42, 0) 15.14%, #16232A 67.29%), url('./img/football.jpg');
@@ -410,11 +408,11 @@ footer {
 #rules-text .show-more-height {
     max-height: 265px;
     overflow: hidden;
-    transition: max-height 0.5s ease; /* Add a smooth transition */
+    transition: max-height 0.5s ease; 
   }
   
   #rules-text .expanded {
-    max-height: 100%; /* Remove the max-height limit when expanded */
+    max-height: 100%; 
   }
   @media screen and (max-width:700px) {
     .footer-wrapper {
