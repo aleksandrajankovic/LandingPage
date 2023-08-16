@@ -488,6 +488,9 @@ footer {
      .links {
          display:none;
      }
+      .copyright {
+      border-top: 1px solid #35383e;
+      }
   }
   @media screen and (max-width:376px) {
     .hero {
